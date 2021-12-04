@@ -2,9 +2,7 @@
 
 ## Prophylaxis (Before you get COVID-19)
 - Daily Multivitamin
-- [Quercetin and Zinc](https://www.amazon.com/dp/B09F32YZPC?ref=nb_sb_ss_w_as-ypp-rep_ypp_rep_k0_1_4&crid=26UZMI50MY5J7&sprefix=quer)
-  - [Antiviral Effects of Quercetin through Zinc Ionophore Activity](https://gilbertlab.com/neutraceuticals/quercetin/antiviral-effects-of-quercetin-zinc-ionophore/)
-  - [link](#quercetin-and-zinc)
+- [Quercetin and Zinc](#quercetin-and-zinc)
 - [D3](https://www.amazon.com/Nature-Made-Vitamin-Tablets-Value/dp/B004U3Y8NI/ref=sr_1_7?keywords=D3&qid=1638636643&s=hpc&sr=1-7)
 - [Vitamin C](https://www.amazon.com/Nature-Made-Vitamin-500-Softgels/dp/B00I689DHY/ref=sr_1_4_sspa?keywords=vitamin+c&qid=1638636957&sr=8-4-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzQURHMVE4UEI2WjZGJmVuY3J5cHRlZElkPUEwMDcwMTYxMkpSUExPUUE3VUhUUSZlbmNyeXB0ZWRBZElkPUEwNjc0NTIyMVhOU0JOR09LSUtJVSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
 
@@ -16,5 +14,9 @@
 - Monoclonal Antibodies
 
 ## Resources
-### Quercetin and Zinc
+- ### Quercetin and Zinc
+  - #### Products
+    - [Viodis Quercetin + Zinc](https://www.amazon.com/dp/B09F32YZPC?ref=nb_sb_ss_w_as-ypp-rep_ypp_rep_k0_1_4&crid=26UZMI50MY5J7&sprefix=quer)
+  - #### Research
+    - [Antiviral Effects of Quercetin through Zinc Ionophore Activity](https://gilbertlab.com/neutraceuticals/quercetin/antiviral-effects-of-quercetin-zinc-ionophore/)
 
